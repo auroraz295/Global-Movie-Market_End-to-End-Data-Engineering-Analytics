@@ -1,5 +1,5 @@
 ## 🎬 Global Box Office: End-to-End Data Pipeline & Analytics
-Un'analisi comparativa tra il mercato Mondiale e Italiano (2015-2025)
+<i>Un'analisi comparativa tra il mercato Mondiale e Italiano (2015-2025)</i>
 
 ### 📌 Project Overview
 Questo progetto di Capstone dimostra l'intero ciclo di vita del dato. Partendo dal Web Scraping di dati grezzi da Box Office Mojo, ho progettato un Database Relazionale in MySQL e realizzato una Dashboard interattiva in Power BI. L'obiettivo è analizzare l'andamento del cinema nell'ultimo decennio, confrontando i trend globali con quelli del mercato italiano.
